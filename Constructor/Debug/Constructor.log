@@ -1,0 +1,6 @@
+﻿  Constructor.cpp
+D:\Git\-Studying-\Constructor\Constructor.cpp(8,37): error C2512: Students: нет подходящего конструктора по умолчанию
+D:\Git\-Studying-\Constructor\Constructor.cpp(41,24): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  students.cpp
+  students.h
+  Создание кода...
