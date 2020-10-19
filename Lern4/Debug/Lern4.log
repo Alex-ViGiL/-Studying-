@@ -1,0 +1,3 @@
+﻿  Lern4.cpp
+C:\Users\aleks\Desktop\Lern4\Lern4.cpp(93,22): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Lern4.vcxproj -> C:\Users\aleks\Desktop\Lern4\Debug\Lern4.exe
