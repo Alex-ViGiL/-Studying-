@@ -1,0 +1,2 @@
+D:\Git\-Studying-\Int\Debug\Int.exe
+D:\Git\-Studying-\Int\Debug\Int.pdb
